@@ -25,9 +25,6 @@ The trained model achieved the following performance metrics on the test set:
 | No Caries      | 82.4%     | 96.6%  | 88.9%    |
 | **Accuracy**   |           |        | **90.1%**|
 
-**Confusion Matrix:**
-![Confusion Matrix](confusionMatrix.jpg) <!-- Upload your image and update the path -->
-
 ## 🗂️ Dataset
 
 The model was trained on a dataset of **2890 bitewing radiographs**, sourced from platforms like Kaggle and Mendeley Data.
