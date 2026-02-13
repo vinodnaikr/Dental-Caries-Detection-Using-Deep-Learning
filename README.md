@@ -26,7 +26,7 @@ The trained model achieved the following performance metrics on the test set:
 | **Accuracy**   |           |        | **90.1%**|
 
 **Confusion Matrix:**
-![Confusion Matrix](./confusion_matrix.png) <!-- Upload your image and update the path -->
+![Confusion Matrix](./confusion Matrix.jpg) <!-- Upload your image and update the path -->
 
 ## 🗂️ Dataset
 
